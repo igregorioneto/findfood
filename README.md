@@ -1,27 +1,68 @@
-# Findfood
+<h1 align="center">Findfood</h1>
+<h1>
+    <a href="https://angular.io/">🔗
+     Angular
+     </a>
+     <a href="https://firebase.google.com/?hl=pt"> |
+     Fisebase
+     </a>
+</h1>
+<p>
+🚀 Sistema para verificar as notas dos restaurantes cadastrados. Tudo isso com autenticação com o google e usando o firebase
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+<img src="https://img.shields.io/static/v1?label=FindFood&message=Greg%C3%B3rioNeto&color=7159c1&style=for-the-badge&logo=ghost">
 
-## Development server
+<h1 align="center">
+  <img alt="Findfood" title="#NextLevelWeek" src="https://i.picasion.com/pic91/cb9c718bfe8caaf7052e0a34a6c380e8.gif" />
+</h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<p align="center">
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#tecnologias">Como rodar o projeto</a> 
+</p>
 
-## Code scaffolding
+<h2 align="center">
+Objetivo:
+</h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+<ul>
+    <li>
+    Autenticação do Google com o Firebase
+    </li>
+    <li>
+    Criação de Restaurante pelo modal
+    </li>
+    <li>
+    Listagem de restaurantes
+    </li>
+    <li>
+    Visualização e edição dos comentários de acordo com o usuário autenticado
+    </li>
+</ul>
+</p>
 
-## Build
+<h2 align="center">
+Tecnologias:
+</h2>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p align="center">
 
-## Running unit tests
+[Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[Firebase](https://firebase.google.com/?hl=pt)
 
-## Running end-to-end tests
+</p>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+<h2 align="center">
+Como rodar o projeto:
+</h2>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="center">
+
+<h3>Development server</h3>
+Rodar o `ng server` ou `ng s` e navegar com a url <a>http://localhost:4200/</a>
+</p>
